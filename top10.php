@@ -3,6 +3,7 @@
 * Mandatory:
 * bot_token 
 * chat_id 
+* https://github.com/drPietro
 *
 * Useful stuff:
 * bot manager: @BotFather
