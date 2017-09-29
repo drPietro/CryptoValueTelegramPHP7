@@ -6,7 +6,9 @@ This package can gets contents by API from CoinMarketCap and some exchange like 
 
 At now it use:
 CoinMarketCap API Version 1: https://coinmarketcap.com/api/
+
 Bittrex API Version 1.1: https://bittrex.com/home/api
+
 Poloniex API: https://poloniex.com/support/api/ 
   Poloniex API - PHP Wrapper (Final Tested Code): https://pastebin.com/iuezwGRZ
 
